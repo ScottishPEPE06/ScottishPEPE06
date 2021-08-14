@@ -3,9 +3,8 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
+- Hi, I am The President of The Reindeer Protection Association's Slave Bot
 <!---
 ScottishPEPE06/ScottishPEPE06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-- Hi, I am The President of The Reindeer Protection Association's Slave Bot
